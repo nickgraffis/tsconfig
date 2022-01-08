@@ -1,0 +1,15 @@
+{
+  "name": "@nickgraffis/tsconfig",
+  "version": "0.0.1",
+  "description": "Automating tsconfig setup",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Graffis",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.4 "
+  }
+}
